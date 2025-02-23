@@ -4,4 +4,7 @@ U = Update the username and password. the user will open the database click on a
     there user can apply the changes and if the dataset is displaying in browser window update and re-render the database with new edited changes.
 D = Delete the user from the database.
 
-This app will be a single page app.
+The UI will me made with tailwind CSS = i don't know tailwindcss and node.js
+the backend is connected to postgresql and the server code is copied from internet and i understand it like 75% but i know what is going on but can not replicate the logic yet.
+
+now tell me at this level out 10 how hard is this form me and how much days is it going to take so me who learn + code for 4 days in a week ? 
