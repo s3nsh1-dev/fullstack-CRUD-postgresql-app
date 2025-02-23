@@ -1,0 +1,7 @@
+C = Create a user with password and id is assigned dynamically.
+R = Read the database and display in table in browser.
+U = Update the username and password. the user will open the database click on a row of user and in side window the user and shown with the option of edit details.
+    there user can apply the changes and if the dataset is displaying in browser window update and re-render the database with new edited changes.
+D = Delete the user from the database.
+
+This app will be a single page app.
